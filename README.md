@@ -1,14 +1,14 @@
-# smartpathlib
+# smartpathlibraryrary
 Cross-platform library for working with paths to files and folders.
 
 ---
 
-[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smartpathlib)](https://github.com/smartlegionlab/smartpathlib/)
-[![PyPI - Downloads](https://img.shields.io/pypi/dm/smartpathlib?label=pypi%20downloads)](https://pypi.org/project/smartpathlib/)
-![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smartpathlib)
-[![PyPI](https://img.shields.io/pypi/v/smartpathlib)](https://pypi.org/project/smartpathlib)
-[![GitHub](https://img.shields.io/github/license/smartlegionlab/smartpathlib)](https://github.com/smartlegionlab/smartpathlib/blob/master/LICENSE)
-[![PyPI - Format](https://img.shields.io/pypi/format/smartpathlib)](https://pypi.org/project/smartpathlib)
+[![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smartpathlibrary)](https://github.com/smartlegionlab/smartpathlibrary/)
+[![PyPI - Downloads](https://img.shields.io/pypi/dm/smartpathlibrary?label=pypi%20downloads)](https://pypi.org/project/smartpathlibrary/)
+![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smartpathlibrary)
+[![PyPI](https://img.shields.io/pypi/v/smartpathlibrary)](https://pypi.org/project/smartpathlibrary)
+[![GitHub](https://img.shields.io/github/license/smartlegionlab/smartpathlibrary)](https://github.com/smartlegionlab/smartpathlibrary/blob/master/LICENSE)
+[![PyPI - Format](https://img.shields.io/pypi/format/smartpathlibrary)](https://pypi.org/project/smartpathlibrary)
 
 ***
 
@@ -18,7 +18,7 @@ Author and developer: ___A.A. Suvorov.___
 
 ## Help:
 
-`pip install smartpathlib`
+`pip install smartpathlibrary`
 
 ***
 
