@@ -5,4 +5,4 @@
 # All rights reserved.
 # --------------------------------------------------------
 """Cross-platform library for working with paths to files and folders."""
-__version__ = "0.0.1"
+__version__ = "0.1.1"
