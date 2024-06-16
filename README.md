@@ -1,5 +1,5 @@
 # smartpathlibrary
-Cross-platform library for working with paths to files and folders.
+Library for working with paths to files and folders.
 
 ---
 
