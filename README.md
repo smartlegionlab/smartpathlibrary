@@ -3,6 +3,7 @@ Library for working with paths to files and folders.
 
 ---
 
+[![PyPI Downloads](https://static.pepy.tech/badge/smartpathlib)](https://pepy.tech/projects/smartpathlib)
 [![GitHub release (latest by date)](https://img.shields.io/github/v/release/smartlegionlab/smartpathlibrary)](https://github.com/smartlegionlab/smartpathlibrary/)
 [![PyPI - Downloads](https://img.shields.io/pypi/dm/smartpathlibrary?label=pypi%20downloads)](https://pypi.org/project/smartpathlibrary/)
 ![GitHub top language](https://img.shields.io/github/languages/top/smartlegionlab/smartpathlibrary)
