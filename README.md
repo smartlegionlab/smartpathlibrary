@@ -1,4 +1,7 @@
-# smartpathlibrary
+# smartpathlibrary <sup>v0.1.3</sup>
+
+---
+
 Library for working with paths to files and folders.
 
 ---
@@ -42,7 +45,7 @@ Author and developer: ___A.A. Suvorov.___
     --------------------------------------------------------
     Licensed under the terms of the BSD 3-Clause License
     (see LICENSE for details).
-    Copyright © 2018-2024, A.A. Suvorov
+    Copyright © 2018-2025, A.A. Suvorov
     All rights reserved.
     --------------------------------------------------------
 
